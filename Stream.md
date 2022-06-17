@@ -22,4 +22,4 @@ List<String> collect = names.stream().map((s)-> s.toUpperCase()).collect(Collect
 
 ### Stream API 활용
 
-// 링크
+https://github.com/dldbdud314/my-java-library/blob/main/java8/src/com/yy/stream/App.java
