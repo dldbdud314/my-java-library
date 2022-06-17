@@ -1,4 +1,4 @@
-package com.yy.sec1;
+package com.yy.functional_interface_and_lambda;
 
 import java.util.function.Function;
 
