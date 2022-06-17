@@ -12,7 +12,7 @@ null을 참조하는 경우 발생
 
 ### Optional API
 
-//링크
+- 코드: https://github.com/dldbdud314/my-java-library/blob/main/java8/src/com/yy/optional/App.java
 
 - 참고:
   https://docs.oracle.com/javase/8/docs/api/java/util/Optional.html
