@@ -17,4 +17,6 @@
 - 동일성(Identity): 두 객체의 레퍼런스 주소값이 같음
 - 동등성(Equality): 두 객체의 내용이 같음 (논리적 동일함)
 
-📌 lombok의 `@EqualsAndHashcode`
+### 활용
+- 언제 많이 쓰는가? 엔티티 객체를 정의할 때
+- lombok의 `@EqualsAndHashcode` 사용 가능
